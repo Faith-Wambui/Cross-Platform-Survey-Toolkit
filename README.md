@@ -29,7 +29,7 @@ cross-platform-survey-toolkit/
 ├── .gitignore                  # Git tracking rules
 ├── forms/                      # Form specifications & platform exports
 │   ├── reference-form.xlsx     # Source-of-truth master XLSForm
-│   └── kobo-export.xlsx        # KoboToolbox compiled output
+│   └── commcare-form.xml   # Converted XForm XML definition for CommCare HQ
 ├── docs/                       # Technical documentation & platform logs
 │   ├── translation-notes.md    # Multi-platform conversion & syntax log
 │   └── platform-comparison.md # Comparative feature matrix (Kobo vs SurveyCTO vs CommCare)
